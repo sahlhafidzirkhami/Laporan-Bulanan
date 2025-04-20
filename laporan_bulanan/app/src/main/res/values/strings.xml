@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">laporan_bulanan</string>
+    <string name="logo_desc">Logo DigiTeam</string>
+    <string name="brand">DigiTeam</string>
+    <string name="motto">Digital Together Everyone Achieve More</string>
+    <string name="section">Jabar Digital Service</string>
+    <string name="fullname">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="role">UI Designe</string>
+    <string name="worktime">Jam Kerja Bulan Ini</string>
+    <string name="workhour">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="hour">130.53 Jam</string>
+    <string name="minimum">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="checkin">Checkin</string>
+    <string name="laporan">Laporan Kamu</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="buat_laporan">Buat Laporan</string>
+    <string name="izin">Izin</string>
+    <string name="laporanku">Laporan</string>
+    <string name="agenda">Agenda</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+
+
+
+
+
+
+
+</resources>
